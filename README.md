@@ -1,7 +1,7 @@
 # Large scale Performance metrics gathering
 --------------
 
-> Team project developed for CMPE2803 (Spring 2015)
+> Team project developed for CMPE283 (Spring 2015)
 > at San Jose State University
  - Title: Large scale Statistics collection of VMWare VM and VHost performance metrics
  
