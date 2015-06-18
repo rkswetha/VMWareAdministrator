@@ -28,3 +28,6 @@ Monitor Hosts and collect the following metrics (Per Guest Level CPU, Memory, Th
 * VSphere Management client
 * VMWare Infrastructure(VI) Apis
 
+##Project Component Architecture diagram
+----------------------------------------
+![Design](/screenshot/Design.png?raw=true)
